@@ -1,0 +1,83 @@
+QA Engineer
+
+Fakhrutdinova Zulfiya Razilevna
+
+Female, 29 years old
+
+
+Contacts
+
+ +7 (904) 678-31-08
+zulya5398@gmail.com 
+
+
+Work experience:
+July 2021 - present
+testbirds.com
+Tester
+Functional and non-functional testing of websites, finding bugs and entering them into a special form.
+
+
+July 2017 - July 2021
+4 years 1 month
+AK BARS BANK
+akbars.ru
+
+
+Verifier
+Verification of loan applications from individuals for reliability and the subject of fraud, risk assessment. Verification of the Bank's databases and additional resources. Making a decision. High speed of work, excellent performance in fulfilling plans for processing applications.
+Key Skills
+Verify your skills by sending your resume link to your colleagues and business partners. For this, the resume must be visible to the entire internet. Open your resume all over the internet and get a link.
+
+
+Hard skills:
+
+I know the theory and typology of testing, test design techniques;
+I understand the SDLC process;
+I have experience in functional and non-functional testing;
+I have experience in creating test documentation (test cases, checklists, bug reports);
+I can work in the JIRA bug tracking system;
+I also have experience working with databases (MySQL, PostgreSQL), I can carry out queries (create, edit, delete tables, selects and joins);
+Have basic knowledge of API testing (Postman);
+Basic knowledge of HTML, Devtools;
+Basic knowledge in Git.
+There is experience in website design and not only.
+
+Soft skills:
+
+I know how to work in a team
+I can search and find information (on my own)
+Able to learn quickly and work with volumes of information
+I am able to work in multitasking mode.
+Focused on results.
+Honest, responsible and diligent.
+I don't plan on maternity leave anymore :)
+
+
+My hobbies are reading, music, smart fitness.
+Favorite game - Heroes of Might and Magic V.
+
+
+
+Education
+2015
+Kazan Federal University, Kazan
+Institute of Social Sciences, Political Science
+
+
+English - B1 - Intermediate
+
+Professional development, courses:
+
+Online Courses
+Udemy, SQL Beginner Course, 2021
+
+Online Courses
+Artem Rusau QA, QA Engineering, 2021
+
+Online Courses
+Stepic, SQL
+
+QA Xsolla School,2021
+
+A. Kazakov's Computer School, Adobe Illustrator,2016
